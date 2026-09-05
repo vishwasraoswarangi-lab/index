@@ -1,4 +1,4 @@
 # index
 This is my first repo
 <br>
-Author-Swarangi
+Author-Swarangi Vishwasrao
